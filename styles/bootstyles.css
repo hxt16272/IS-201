@@ -1,0 +1,45 @@
+
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aquamarine;
+
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+h5{
+    font-size:  25px;
+}
+p{
+    font-size: 20px;
+}
+
+.title{
+    font-size: 45px;
+
+}
+
+.header{
+    top: 0px;
+    font-size: 20px;
+
+}
+.tableaubody{
+    top: 52px;
+    left: 152px;
+    bottom: 32px;
+    right: 0px;
+}
+.footer{
+    bottom:0px;
+    height: 30px;
+    left: 0px;
+    width: 100%;
+}
